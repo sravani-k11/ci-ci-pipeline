@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    enivironment{
+    environment{
         Docker="C:/Users/Happy/AppData/Local/Programs/DockerDesktop/resources/bin/docker.exe"
     }
     
