@@ -1,8 +1,8 @@
 pipeline {
     agent any
     enivironment{
-        Docker="c:\Program Files\Docker\Docker\resources\bin\docker.exe"
-    }
+        Docker="C:/Users/Happy/AppData/Local/Programs/DockerDesktop/resources/bin/docker.exe"
+    
 
     stages {
 
